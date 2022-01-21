@@ -40,3 +40,9 @@ main h2 {
 .codys-styles {
     background:rgb(92, 149, 235);
 }
+
+.echoesfallout-style {
+    color:aquamarine;
+    background-color:bisque;
+    padding: 2px;
+}
